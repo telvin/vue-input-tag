@@ -1,16 +1,15 @@
 {
-  "name": "vue-input-tag",
-  "version": "0.0.16",
+  "name": "telvin-vue-input-tag",
+  "version": "0.0.17",
   "description": "Vue.js input tag editor component",
   "keywords": [
     "input",
     "tag",
     "inputtag"
   ],
-  "author": "Matias Tucci <matiastucci@gmail.com>",
+  "author": "Telvin Nguyen <telvinnguyen@gmail.com>",
   "main": "dist/vue-input-tag.min.js",
-  "repository": "https://github.com/matiastucci/vue-input-tag",
-  "homepage": "https://matiastucci.github.io/vue-input-tag",
+  "repository": "https://github.com/telvin/vue-input-tag",
   "license": "MIT",
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --hot",
